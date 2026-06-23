@@ -1,1 +1,20 @@
 # portugal-vs-europe-housing-analysis
+
+european-housing-market-analysis/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│
+├── sql/
+│
+├── src/
+│
+├── app/
+│
+├── images/
+│
+├── requirements.txt
+└── README.md
